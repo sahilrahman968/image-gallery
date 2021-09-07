@@ -1,0 +1,9 @@
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.grid-item {
+  width: 30%;
+}
